@@ -10,28 +10,28 @@ export class LegService {
     {
       id:'l1',
       baslik : 'Squad',
-      explanation : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      explanation : "Vücudunuz dik ve ayaklarınız omuz genişliği kadar açık olsun.Bu konumda nefes alın ve vücut öne eğilmeden, bacaklarınız ile yer arasında 90 derecelik bir açı oluşturuna kadar çömelin.Nefes verin ve dik dik konumuza dönün.Egzersiz sırasında omurganın zarar görmemesi için vücut dikliğini korumaya dikkat edilmesi, bacak ve kalça kaslarının da egzersiz devam ederken gevşetilmeden çalışılması gerek.",
       mainfocus : 'asdadas',
       imgurl : 'assets/images/squat.jpg'
     },
     {
       id : 'l2',
       baslik : 'Alternating Lunges',
-      explanation : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      explanation : "Bir bacakla arkanıza doğru büyük bir lunge adımı atın; giryalar göğüs yüksekliğinde kalsın. Arkadaki dizle yere değin, ardından öndeki ayağın topuğuna yüklenerek hareketi tersine uygulayın ve doğrulun. Diğer bacakla tekrar edin. Her tekrarda bacak değiştirin",
       mainfocus : 'asdsadas',
       imgurl : 'assets/images/lunges.jpg'
     },
     {
       id : 'l3',
       baslik : 'Calf Raise',
-      explanation : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      explanation : "Yukarı doğru parmak ucunda yükselirken nefes verilir topuklar en alt noktaya kadar indirilirken nefes alınır.",
       mainfocus : 'aksadas',
       imgurl : 'assets/images/calfRaise.jpg'
     },
     {
       id : 'l4',
       baslik : 'Goblet Squat',
-      explanation : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      explanation : "Ayaklarınızı standart gelişim için omuz mesafeniz kadar açın.Uygun ağırlıktaki dumbbellı tepe kısmından sağlam bir şekilde kavrayın ve çene hizanıza kadar kaldırın.Nefes alın ve ardından çömelmeye başlayın. Üst bacaklarınız yani dirsek ve kalça arası yere paralel olana kadar çömelin. Bu mesafeden aşağı inmenize gerek yok.  Çömelme anını yavaş yapın ki arka bacak kaslarınızda çalışsın. Hızlı yaparsanız emin olun goblet squat hareketinin yarısı boşa gitmiş olacak. Çömelme anı için ideal süre 2 saniyedir.",
       mainfocus : 'sadsadasde',
       imgurl : 'assets/images/gobletSquat.jpg'
 
@@ -39,7 +39,7 @@ export class LegService {
     {
       id : 'l5',
       baslik : 'One Leg Deadlift',
-      explanation : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      explanation : "Bir bacağınızı ekrandaki kadar geri alın. Sırtınızı oklava yutmaz gibi düz ve bütün vücudunuzu (kalça, arka bacak, karın, sırt, omuz, kol vs.) gergin ve sıkı tutun. Kollar halat görevi görsün ne öne ne geriye salınmasın. sadece düz formda vücuda yakın bir şekilde insin ve çıksın. Başınızda sırtınıza eşlik etsin ve ekstra yukarı veya aşağı inmesin omurilikle birlikte düz hareket etsin.",
       mainfocus : 'asdasdasda',
       imgurl : 'assets/images/oneLegDeadLift.jpg'
 
