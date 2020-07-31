@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons>
+      <ion-back-button defaultHref="/home"></ion-back-button>
+      <ion-title>Kol Egzersizleri</ion-title>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item *ngFor="let armExercise of armExercises" [routerLink]="['/arm',armExercise.id]">
+      <ion-avatar>
+        <ion-img [src]="armExercise.imgUrl"></ion-img>
+      </ion-avatar>
+      <ion-label>
+        {{armExercise.baslik}}
+      </ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>
